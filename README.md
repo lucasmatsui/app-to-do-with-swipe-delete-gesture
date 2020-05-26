@@ -4,6 +4,8 @@
 
 <h2 align='center'> To do list with gesture delete</h2>
 
+- Desenvolvido a fins de conhecimento
+
 ## :fire: Setup
 ```
 $ git clone https://github.com/lucasmatsui/app-to-do-with-swipe-delete-gesture.git
